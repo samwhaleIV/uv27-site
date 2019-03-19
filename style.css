@@ -7,7 +7,7 @@ body {
 }
 #inner-area {
     background-color: black;
-    width: 40%;
+    width: 550px;
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
@@ -70,7 +70,7 @@ p {
     line-height: 40px;
     margin-top: 0;
 }
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 595px) {
     #inner-area {
         width: 100%;
         margin: 0;
